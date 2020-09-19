@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://i.imgur.com/CqGIXBa.jpg" alt="Project"></a>
 </p>
 
-<h1 align="center">data-visualization</h1>
+<h1 align="center">Data Visualization</h1>
 
 ## 📝 Table of Contents
 
